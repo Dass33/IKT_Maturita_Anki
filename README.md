@@ -2,7 +2,7 @@
 ## General Info
 Kartičky slouží k učení se faktů k maturitě z IKT.
 Kartičky jsou vytvořeny pro open-source aplikace Anki. 
-* Pokud byste někdo chtěl velmi ocením, pokud se zapojíte do tvorby těchto kartiček, a nebo pokud poskytnete zpětnou vazbu.  
+* Velmi ocením, pokud se zapojíte do tvorby těchto kartiček, a nebo pokud poskytnete zpětnou vazbu.  
 * Za správnost kartiček nezaručuji, naopak vás vybízím k ověřování jejich správnosti.  
 * Většina informací v kartičkách pochází z poznámek v učebně.  
   
