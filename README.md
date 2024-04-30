@@ -1,5 +1,5 @@
 # IKT_Maturita_Anki
-## General Info
+## General Info V.1.0
 Kartičky slouží k učení se faktů k maturitě z IKT.
 Kartičky jsou vytvořeny pro open-source aplikace Anki. 
 * Velmi ocením, pokud se zapojíte do tvorby těchto kartiček, a nebo pokud poskytnete zpětnou vazbu.  
