@@ -25,12 +25,12 @@ K vytvoření kartiček vyberte příslušný balíček a klikněte na tlačítk
 
 
 Pro rychlejší tvoření doporučuji využívat klávesové zkratky:   
-ctrl+Enter -přidání kartičky  
-tab - přepínání mezi Zadáním, odpovědí a tagy  
-ctrl+b - tučný text  
+https://anki-decks.com/blog/post/anki-shortcuts-cheatsheet/  
 Ctrl+m, m - Math jax  
-(matematické rovnice: https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)  
-Ctrl+n - výběr z několika druhů kartiček  
+https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference  
+
+Pokud chcete můžete také generovat kartičky pomocí AI🧠:  
+https://anki-decks.com/  
 
 ### Úprava kartiček:  
 Kliknutím na tlačítko browse se vám zobrazí list kartiček, které můžete upravovat. (zkratka 'b')
